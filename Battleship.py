@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 15 01:18:43 2016
 
-@author: sylvant
+@author: emilyram
 """
 import random
 from battleship_graphics import *
